@@ -1,0 +1,44 @@
+body{
+    font-family: sans-serif;
+    background-color: white;
+}
+header{
+    background-color: lightcoral;
+    padding: 5px;
+}
+.logo{
+    width: 200px;
+    height: 150px;
+}
+nav{
+    margin: 20px 0px;
+    padding: 20px 0px;
+    background-color: rgb(232, 73, 73);
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    margin-right:60px ;
+    color: white;
+
+}
+footer a{
+    text-decoration: none;
+    background-color: rgb(232, 73, 73);
+    color:white;
+    padding:10px 10px;
+    border-radius: 10px;
+}
+footer{
+    background-color: lightcoral;
+    padding:10px;
+    color:white;
+}
+h2{
+   text-align: center;
+   font-size:30px;
+}
+h1{
+    text-align: center;
+}
